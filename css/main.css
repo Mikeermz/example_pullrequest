@@ -152,6 +152,19 @@ nav a:hover {
 .ie7 .title {
     padding-top: 20px;
 }
+.impresora{
+    width: 200px;
+    height: 300px;
+}
+#texth3{
+    text-align: justify;
+}
+.image3{
+    float: right;
+    position: relative;
+    left: 350px;
+}
+
 
 /* ==========================================================================
    Author's custom styles
