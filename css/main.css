@@ -150,11 +150,17 @@ nav a:hover {
     padding-top: 20px;
 }
 .impresora{
-width: 250px;
-height: 300px;
+    width: 200px;
+    height: 300px;
 }
 #texth3{
-text-align: justify;
+    text-align: justify;
+}
+.image3{
+    float: right;
+    position: relative;
+    left: 350px;
+}
 
 
 /* ==========================================================================
