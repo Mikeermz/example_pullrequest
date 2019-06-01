@@ -149,6 +149,13 @@ nav a:hover {
 .ie7 .title {
     padding-top: 20px;
 }
+.impresora{
+width: 250px;
+height: 300px;
+}
+#texth3{
+text-align: justify;
+
 
 /* ==========================================================================
    Author's custom styles
